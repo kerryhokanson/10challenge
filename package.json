@@ -1,0 +1,28 @@
+{
+  "name": "10challenge",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "inquirer": "8.2.4",
+    "jquery": "^3.6.1"
+  },
+  "devDependencies": {
+    "jest": "^26.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerryhokanson/10challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerryhokanson/10challenge/issues"
+  },
+  "homepage": "https://github.com/kerryhokanson/10challenge#readme"
+}
